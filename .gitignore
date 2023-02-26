@@ -1,0 +1,6 @@
+.python-version
+.vscode/
+db.sqlite3
+__pycache__/
+*.pyc
+chatgpt_lsp/settings.py
