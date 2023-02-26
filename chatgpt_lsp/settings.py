@@ -136,5 +136,5 @@ CACHES = {
     }
 }
 
-OPENAI_KEY = "xxxxxx"
+OPENAI_KEY = "xxxxxxx"
 WECHAT = {"TOKEN": "xxxxxx"}
